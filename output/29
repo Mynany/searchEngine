@@ -1,0 +1,1 @@
+b'Shibboleth Authentication Request\n\nIf your browser does not continue automatically, click \n\r\n<!--\r\nfunction EZproxyCheckBack() {  var goForward = (document.EZproxyTrack.back.value==1);  document.EZproxyTrack.back.value=2;  document.EZproxyTrack.back.defaultValue=2;  if (goForward) { document.EZproxyForm.submit(); }}\r\n-->\r\n\n'
