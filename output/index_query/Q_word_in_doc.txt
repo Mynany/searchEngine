@@ -1,0 +1,1 @@
+{'career': {'query': 1}, 'fair': {'query': 1}}
